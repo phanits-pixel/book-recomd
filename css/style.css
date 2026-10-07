@@ -1,0 +1,91 @@
+.hero-bg {
+
+    background-color: #214bbe;
+}
+
+.sec2-bg {
+    background-color: orange;
+    height: 80px;
+}
+
+
+.text-shadow {
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+.mybg {
+    background-color: orange;
+}
+
+.ft-bg {
+    background-color: #214bbe;
+}
+
+
+h1 {
+    font-family: "Mitr", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+
+
+
+}
+
+h2 {
+
+    font-family: "Sriracha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 48px;
+    color: white;
+}
+
+h3 {
+    font-family: "Mitr", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 42px;
+    color: white;
+
+}
+
+h4 {
+    font-family: "Mitr", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    color: #214bbe;
+}
+
+p {
+    font-family: "IBM Plex Sans Thai Looped", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h5 {
+
+    font-family: "Sriracha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    color: white
+}
+
+.slider {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    gap: 10px;
+
+}
+
+.sl-img {
+    width: 100%;
+    height: 500px;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+    border-radius: 8px;
+}
