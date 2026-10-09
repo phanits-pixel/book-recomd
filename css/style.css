@@ -4,7 +4,7 @@
 }
 
 .sec2-bg {
-    background-color: orange;
+   
     background-position: top;
 }
 
@@ -38,7 +38,7 @@ h2 {
     font-weight: 400;
     font-style: normal;
     font-size: 42px;
-    color: white;
+    color: orange;
 }
 
 h3 {
