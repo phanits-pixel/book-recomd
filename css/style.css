@@ -1,16 +1,16 @@
 .hero-bg {
 
-    background-color: #214bbe;
+    background-color: orange;
 }
 
 .sec2-bg {
     background-color: orange;
-    height: 80px;
+    background-position: top;
 }
 
 
 .text-shadow {
-    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    text-shadow: 2px 2px 4px rgb(20, 13, 210);
 }
 
 .mybg {
@@ -38,7 +38,7 @@ h2 {
     font-weight: 400;
     font-style: normal;
     font-size: 48px;
-    color: white;
+    color: orange;
 }
 
 h3 {
@@ -83,7 +83,7 @@ h5 {
 }
 
 .sl-img {
-    width: 100%;
+    width: 90%;
     height: 500px;
     flex-shrink: 0;
     scroll-snap-align: start;
